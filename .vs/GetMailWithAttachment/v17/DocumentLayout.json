@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\app.shraddha\\source\\repos\\GetMailWithAttachment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9AC441-EE0F-401C-88AF-9ED6474A40BE}|GetMailWithAttachment.csproj|c:\\users\\app.shraddha\\source\\repos\\getmailwithattachment\\views\\home\\sendmail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9AC441-EE0F-401C-88AF-9ED6474A40BE}|GetMailWithAttachment.csproj|solutionrelative:views\\home\\sendmail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9AC441-EE0F-401C-88AF-9ED6474A40BE}|GetMailWithAttachment.csproj|c:\\users\\app.shraddha\\source\\repos\\getmailwithattachment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9AC441-EE0F-401C-88AF-9ED6474A40BE}|GetMailWithAttachment.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9AC441-EE0F-401C-88AF-9ED6474A40BE}|GetMailWithAttachment.csproj|c:\\users\\app.shraddha\\source\\repos\\getmailwithattachment\\repository\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9AC441-EE0F-401C-88AF-9ED6474A40BE}|GetMailWithAttachment.csproj|solutionrelative:repository\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9AC441-EE0F-401C-88AF-9ED6474A40BE}|GetMailWithAttachment.csproj|c:\\users\\app.shraddha\\source\\repos\\getmailwithattachment\\models\\emailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9AC441-EE0F-401C-88AF-9ED6474A40BE}|GetMailWithAttachment.csproj|solutionrelative:models\\emailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9AC441-EE0F-401C-88AF-9ED6474A40BE}|GetMailWithAttachment.csproj|c:\\users\\app.shraddha\\source\\repos\\getmailwithattachment\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9AC441-EE0F-401C-88AF-9ED6474A40BE}|GetMailWithAttachment.csproj|solutionrelative:views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\app.shraddha\\source\\repos\\GetMailWithAttachment\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\app.shraddha\\source\\repos\\GetMailWithAttachment\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T09:30:50.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\app.shraddha\\source\\repos\\GetMailWithAttachment\\Models\\EmailViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmailViewModel.cs",
+              "ToolTip": "C:\\Users\\app.shraddha\\source\\repos\\GetMailWithAttachment\\Models\\EmailViewModel.cs",
+              "RelativeToolTip": "Models\\EmailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:24:16.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendMail.cshtml",
+              "DocumentMoniker": "C:\\Users\\app.shraddha\\source\\repos\\GetMailWithAttachment\\Views\\Home\\SendMail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SendMail.cshtml",
+              "ToolTip": "C:\\Users\\app.shraddha\\source\\repos\\GetMailWithAttachment\\Views\\Home\\SendMail.cshtml",
+              "RelativeToolTip": "Views\\Home\\SendMail.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswC4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T08:39:20.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\app.shraddha\\source\\repos\\GetMailWithAttachment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\app.shraddha\\source\\repos\\GetMailWithAttachment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T08:37:35.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\app.shraddha\\source\\repos\\GetMailWithAttachment\\Repository\\Services.cs",
+              "RelativeDocumentMoniker": "Repository\\Services.cs",
+              "ToolTip": "C:\\Users\\app.shraddha\\source\\repos\\GetMailWithAttachment\\Repository\\Services.cs",
+              "RelativeToolTip": "Repository\\Services.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwEsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T08:33:06.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
